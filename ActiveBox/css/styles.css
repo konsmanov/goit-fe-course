@@ -1,0 +1,84 @@
+body {
+    font-family: "Raleway", "Arial", sans-serif;
+    color: #6C7279;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 0;
+}
+
+.page-header {
+    background-color: #2E304A;
+}
+.site-navigation {
+    font-size: 13px;
+    list-style: none;
+}
+.site-navigation a {
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.749);
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 16px;
+}
+.features-list {
+    list-style: none;
+}
+
+li.features-list-item h3 {
+    font-size: 14px;
+    color: rgb(45, 48, 51);
+    font-weight: bold;
+    line-height: 17px;
+}
+.team-list {
+    list-style: none;
+}
+.team-list-name {
+    font-size: 22px;
+    line-height:26px;
+    color: #2D3033;
+}
+
+.team-list-occupation {
+    font-size: 13px;
+    color: #E84545;
+    line-height: 16px;
+}
+
+.team-list-about {
+    font-size:14px;
+    color:#6C7279;
+    line-height: 21px;
+}
+
+.page-footer {
+    background-color: #3A3E64;
+}
+footer div p:nth-child(1) {
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.location p:nth-child(2) {
+    font-size: 14px;
+    line-height: 17px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.visually-hidden:not(:focus):not(:active),
+input[type="checkbox"].visually-hidden,
+input[type="radio"].visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
