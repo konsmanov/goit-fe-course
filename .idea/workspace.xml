@@ -4,11 +4,28 @@
     <list default="true" id="e10ca0d7-6d15-4d9b-a7d5-ca535f9a3d16" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/html-css/Module_04/CSS/normalize.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/html-css/Module_04/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/fonts/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/fonts/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/fonts/OpenSans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/fonts/roboto-black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/fonts/roboto-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/ipad-632394_960_720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/product-img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/product1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/product2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/product3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/product4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/product5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/product6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/product8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/product9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/img/slide1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/html-css/Module_04/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ActiveBox/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ActiveBox/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ActiveBox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ActiveBox/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS_Using/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_Using/CSS/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +82,7 @@
       <workItem from="1608470166784" duration="18745000" />
       <workItem from="1608837293105" duration="10070000" />
       <workItem from="1608897254736" duration="27439000" />
-      <workItem from="1609014074873" duration="4154000" />
+      <workItem from="1609014074873" duration="4537000" />
     </task>
     <servers />
   </component>
