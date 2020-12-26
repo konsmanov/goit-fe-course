@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e10ca0d7-6d15-4d9b-a7d5-ca535f9a3d16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/CSS/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-css/Module_04/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ActiveBox/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/ActiveBox/css/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ActiveBox/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ActiveBox/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ActiveBox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ActiveBox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS_Using/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS_Using/CSS/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +38,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html-css/Module_04/CSS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\course_git\goit-fe-course\html-css\Module_04\CSS" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -54,7 +63,9 @@
       <workItem from="1608318130328" duration="13016000" />
       <workItem from="1608401780446" duration="1906000" />
       <workItem from="1608470166784" duration="18745000" />
-      <workItem from="1608837293105" duration="9201000" />
+      <workItem from="1608837293105" duration="10070000" />
+      <workItem from="1608897254736" duration="27439000" />
+      <workItem from="1609014074873" duration="4154000" />
     </task>
     <servers />
   </component>

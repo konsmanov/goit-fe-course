@@ -1,3 +1,9 @@
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
 body {
     font-family: "Raleway", "Arial", sans-serif;
     color: #6C7279;
@@ -10,6 +16,8 @@ body {
     background-color: #2E304A;
 }
 .site-navigation {
+    margin: 0;
+    padding: 0;
     font-size: 13px;
     list-style: none;
 }
@@ -21,6 +29,7 @@ body {
     text-decoration: none;
     line-height: 16px;
 }
+
 .features-list {
     list-style: none;
 }
@@ -81,4 +90,39 @@ input[type="radio"].visually-hidden {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+}
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    /*background-color: teal;*/
+}
+
+.site-navigation li {
+    display: inline-block;
+}
+.site-navigation li:not(:last-child) {
+    margin-right: 60px;
+}
+.site-logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+.site-navigation {
+    display: inline-block;
+    vertical-align: middle;
+    width: 970px;
+    text-align: right;
+}
+.page-nav {
+    padding: 38px 0;
+}
+.site-navigation a:hover,
+.site-navigation a:focus {
+    color: #E84545;
 }
